@@ -1,0 +1,12 @@
+.ScoreBoard {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    text-align: center;
+    padding: 2px;
+    color: rgb(241, 241, 241);
+    background: rgb(48, 45, 45);
+    border: 3px solid rgb(163, 95, 49);
+    font-family: 'Permanent Marker', Arial, sans-serif;
+}
+

@@ -1,0 +1,12 @@
+.Header {
+    z-index: 1;
+    display: grid;
+    grid-template-columns: 15% 60% 15%;
+    justify-content: center;
+    align-content: center;
+    grid-gap: 10px;
+    padding: 20px;
+    background:#F5C852;
+    background-image: linear-gradient(to right, #e0a91c,#f5c852,#e0a91c);
+    box-shadow: 0 3px 5px rgb(22, 22, 22);
+}

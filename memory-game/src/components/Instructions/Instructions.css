@@ -1,0 +1,7 @@
+.Instructions {
+    color: black;
+}
+
+.Instructions button {
+    box-shadow: 0 3px 5px rgb(22, 22, 22);
+}

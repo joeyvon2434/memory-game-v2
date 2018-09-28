@@ -1,0 +1,21 @@
+.Footer {
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    margin: 2% 0 0 0;
+    padding: 15px 0 5px 0;
+    background:#F5C852;
+    background-image: linear-gradient(to right, #e0a91c,#f5c852,#e0a91c);
+    box-shadow: 0 -3px 5px rgb(22, 22, 22);
+    color: #0f497c;
+}
+
+.Footer a {
+    text-align: center;
+    margin-left:10px;
+    margin-right: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
