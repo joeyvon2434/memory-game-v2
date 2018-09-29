@@ -2,8 +2,9 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/joeyvon2434/memory-game-v2",
+  "homepage": "https://joeyvon2434.github.io/memory-game-v2",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"

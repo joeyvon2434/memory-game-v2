@@ -119,8 +119,8 @@ class GameWrapper extends React.Component {
                     topScore={this.state.topScore}
                     onClick={() => this.showInstructions()}
                 />
-                <img className="Barney" src="/barney.png"  alt="Barney is too drunk, so didn't show up."/>
-                <img className="Ned" src="/ned.png"  alt="Ned is at church, so he didn't show up."/>
+                <img className="Barney" src="./barney.png"  alt="Barney is too drunk, so didn't show up." />
+                <img className="Ned" src="./ned.png"  alt="Ned is at church, so he didn't show up." />
                 <GameBoard
                     className="GameBoard"
                     pictures={this.state.picturesArray}
