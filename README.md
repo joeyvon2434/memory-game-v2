@@ -1,4 +1,4 @@
-# news-scraper
+# The Simpsons Memory Game
 ## Summary
 A memory game based in React.
 
